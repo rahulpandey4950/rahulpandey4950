@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Pandey
 - 👀 I’m interested in Coding and Solving Problems
-- 🌱 I’m currently working in Data Science
+- 🌱 I’m currently working Engineering best product building solutions
 - 💞️ I’m looking to collaborate on Ideas that solve real world problems
 - 📫 How to reach me: rahulpandey4950@gmail.com
 
